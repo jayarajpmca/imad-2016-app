@@ -1,3 +1,5 @@
+Console.Log("Loadeed");
+
 var button=document.getElementById('Submit');
 var counter=0;
 
