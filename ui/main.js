@@ -1,10 +1,8 @@
-alert("Loadeed");
-
 var button=document.getElementById('Submit');
 var counter=0;
 
 button.onclick= function(){
-    
+    alert("Loadeed");
     counter=counter+1;
     var span=document.getElementById('count');
     span.innerHTML = counter.toString();
