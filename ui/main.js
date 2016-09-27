@@ -1,4 +1,4 @@
-Console.Log("Loadeed");
+alert("Loadeed");
 
 var button=document.getElementById('Submit');
 var counter=0;
